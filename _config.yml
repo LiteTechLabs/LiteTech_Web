@@ -1,3 +1,28 @@
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+
+title: LiteTech Labs
+
+description: Contract software team for small businesses
+
+url: https://litetechlabs.github.io/LiteTech_Web/
+
+twitter:
+  username: LitetechL
+  card: The Official Twitter Handle of LiteTech Labs
+
+facebook:
+  admins: will.ronchetti2014
+
+logo: /img/LiteTech.png
+
+social:
+  name: Will Ronchetti
+  links:
+    - https://www.facebook.com/will.ronchetti2014
+    - https://www.linkedin.com/in/william-ronchetti-569839121/
+    - https://willronchetti.github.io/
+
+webmaster_verifications:
+  google: google9de1a8be008b5a10.html
